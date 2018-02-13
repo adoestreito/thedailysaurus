@@ -1,0 +1,20 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "this is a twitter bot following the coding train",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node botsaurius.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "andres"
+  ],
+  "author": "andres",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "ontime": "0.0.3",
+    "twit": "^2.2.9"
+  }
+}
